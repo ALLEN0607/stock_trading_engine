@@ -46,3 +46,6 @@ It’s a great demonstration of concurrency, data structures, and basic matching
    ```bash
    git clone https://github.com/YourUsername/stock_trading_engine.git
    cd stock_trading_engine
+
+2. Run the Script
+   python stock_trading_engine.py
